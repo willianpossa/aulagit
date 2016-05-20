@@ -1,0 +1,1 @@
+t é uma ferramente open-source e um sistema de controle de versão que facilita MUITO a vida de diversos desenvolvedores na hora de compartilhar seus projetos com alguns de seus colaboradores, criado por Linus Torvald para substituir o BitKeeper, foi usado na criação do Linux Kernel!
